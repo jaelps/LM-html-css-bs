@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+  color: #020292;
+}
+
+h2{
+  background: #00aaff;
+  color: #01018e;
+}
+
+p{
+  color: #002400;
+}
+
+dt, dd {
+  color: #002400;
+}
+
+li{
+  color: #002400;
+}
+
+#copyright{
+  text-align: center;
+  font-weight: bold;
+}
