@@ -1,23 +1,54 @@
+body{
+  font-family: arial, sans-serif;
+  font-size: 17px;
+}
+
 h1{
   text-align: center;
-  color: #020292;
+  font-size: 30px;
 }
 
 h2{
   background: #00aaff;
-  color: #01018e;
+  font-size: 24px;
+}
+
+h1,h2,a{
+  color: darkblue;
 }
 
 p{
-  color: #002400;
+  color: darkslategrey;
 }
 
 dt, dd {
-  color: #002400;
+  color: darkslategrey;
 }
 
 li{
-  color: #002400;
+  color: darkslategrey;
+}
+
+a:visited{
+  color: darkslategrey;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.reds{
+  display: flex;
+  margin: 0 40%;
+}
+
+.reds_imgen{
+  width: 30px;
+  margin: 2px;
 }
 
 #copyright{
